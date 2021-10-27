@@ -8,7 +8,7 @@ Leismore ShortID Generator (CLI) is a command-line tool for generating new Leism
 
 ## Usage
 
-`shortid`, or
+`lm-shortid`, or
 
 `npx @leismore/shortid-cli`
 
