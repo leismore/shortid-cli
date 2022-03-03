@@ -1,6 +1,6 @@
 {
   "name": "@leismore/shortid-cli",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Leismore ShortID Generator (CLI) is a command-line tool for generating new Leismore ShortIDs.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
